@@ -1,0 +1,3 @@
+<!doctype txt>
+<txt>
+Hello. Nice weather today.
